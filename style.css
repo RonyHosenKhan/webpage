@@ -166,3 +166,6 @@ td {
     padding: 10px; 
     width: 20%;
 }
+p{
+    text-align: justify;
+}
